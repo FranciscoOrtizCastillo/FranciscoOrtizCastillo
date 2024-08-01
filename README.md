@@ -13,11 +13,11 @@
 ### Sistemas operativos con los que trabajo o para los que desarrollo
 
 <p align="left">
-<img src="https://github.com/devicons/devicon/blob/master/icons/windows11/windows11-original.svg" title="Windows" alt="Windows" width="40" height="40" />
 <img src="https://raw.githubusercontent.com/logo/apple/master/images/logo-white.svg" title="macOS" alt="macOS" width="40" height="40" />
 <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="40" height="40" />
 <img src="https://github.com/devicons/devicon/blob/master/icons/debian/debian-original.svg" title="Debian" alt="Debian" width="40" height="40"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/archlinux/archlinux-original.svg" title="Arch Linux" alt="Arch Linux"  width="40" height="40" />
+<img src="https://github.com/devicons/devicon/blob/master/icons/windows11/windows11-original.svg" title="Windows" alt="Windows" width="40" height="40" />
 </p>
 
 ### :hammer_and_wrench: Mis Lenguajes y herramientas :
@@ -39,11 +39,20 @@
 ### Tecnologías y herramientas :
 
 <p align="left">
-<img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="React" alt="React" width="40" height="40" />
+
 <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="Git" width="40" height="40" />
 <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="Visual Studio Code" alt="Visual Studio Code" width="40" height="40" />
+<img src="https://github.com/devicons/devicon/blob/master/icons/eclipse/eclipse-original.svg" title="eclipse" alt="eclipse" width="40" height="40" />
+<img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-original.svg" title="Visual Studio" alt="Visual Studio" width="40" height="40" />
+<img src="https://github.com/devicons/devicon/blob/master/icons/vim/vim-original.svg" title="vim" alt="vim" width="40" height="40" />
 <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" title="Docker" alt="Docker" width="40" height="40"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/jenkins/jenkins-original.svg" title="Jenkins" alt="Jenkins"  width="40" height="40" />
+<img src="https://github.com/devicons/devicon/blob/master/icons/apache/apache-original.svg" title="apache server" alt="apache server"  width="40" height="40" />
+<img src="https://github.com/devicons/devicon/blob/master/icons/nginx/nginx-original.svg" title="nginx" alt="nginx"  width="40" height="40" />
+<img src="https://github.com/devicons/devicon/blob/master/icons/tomcat/tomcat-original.svg" title="tomcat" alt="tomcat"  width="40" height="40" />
 <img src="https://github.com/devicons/devicon/blob/master/icons/anaconda/anaconda-original.svg" title="Anaconda" alt="Anaconda"  width="40" height="40" />
+<img src="https://github.com/devicons/devicon/blob/master/icons/sonarqube/sonarqube-original.svg" title="sonarqube" alt="sonarqube"  width="40" height="40" />
+
+<img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="React" alt="React" width="40" height="40" />
 </p>
 
