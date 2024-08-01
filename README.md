@@ -29,7 +29,7 @@
 <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> 
 <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> 
 <a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a> 
-<a href="https://www.rust-lang.org" target="_blank" rel="noreferrer"> <img style="background-color:#FFF;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-original.svg" alt="rust" width="40" height="40"/> </a> 
+<a href="https://www.rust-lang.org" target="_blank" rel="noreferrer"> <img style="background-color:#FFF;" src="https://github.com/rust-lang/rust-artwork/blob/master/logo/rust-logo-256x256.png" alt="rust" width="40" height="40"/> </a> 
 <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" title="Bash" alt="Bash"  width="40" height="40" />
 <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="Html5" alt="Html5"  width="40" height="40" />
 <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" title="CSS3" alt="CSS3"  width="40" height="40" />
